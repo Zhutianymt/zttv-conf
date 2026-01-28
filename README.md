@@ -331,9 +331,9 @@ console.log(`Request from: ${request.headers.get('cf-connecting-ip')}`)
 ## API 状态（最近更新：2026-01-28 09:08 CST）
 
 - 总 API 数量：80
-- 成功 API 数量：79
-- 失败 API 数量：1
-- 平均可用率：98.6%
+- 成功 API 数量：78
+- 失败 API 数量：2
+- 平均可用率：98.5%
 - 完美可用率（100%）：68 个
 - 高可用率（80%-99%）：10 个
 - 中等可用率（50%-79%）：2 个
@@ -422,7 +422,7 @@ console.log(`Request from: ${request.headers.get('cf-connecting-ip')}`)
 | ✅ | 🎬旺旺短剧 | [Link](https://wwzy.tv) | [Link](https://wwzy.tv/api.php/provide/vod) | ✅ | 28 | 2 | 93.3% | ✅✅✅❌✅✅✅ |
 | ✅ | 🔞麻豆视频 | [Link](https://91md.me) | [Link](https://91md.me/api.php/provide/vod) | ✅ | 28 | 2 | 93.3% | ✅✅✅✅✅✅✅ |
 | ✅ | 🔞黄色仓库 | [Link](https://hsckzy.xyz) | [Link](https://hsckzy.xyz/api.php/provide/vod) | ✅ | 28 | 2 | 93.3% | ✅✅✅❌✅✅✅ |
-| ✅ | 🔞幸资源 | [Link](https://xzytv.com) | [Link](https://xzybb2.com/api.php/provide/vod) | ✅ | 23 | 7 | 76.7% | ❌✅✅❌❌❌✅ |
+| 🚨 | 🔞幸资源 | [Link](https://xzytv.com) | [Link](https://xzybb2.com/api.php/provide/vod) | ❌ | 22 | 8 | 73.3% | ❌✅✅❌❌❌❌ |
 | 🚨 | 🎬山海资源 | [Link](https://zy.sh0o.cn) | [Link](https://zy.sh0o.cn/api.php/provide/vod) | ❌ | 17 | 13 | 56.7% | ❌❌❌❌❌❌❌ |
 <!-- API_TABLE_END -->
 
