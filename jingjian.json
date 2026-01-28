@@ -133,17 +133,17 @@
     },
     "bdzy1.com": {
       "name": "🎬百度云zy",
-      "api": "https://api.apibdzy.com/api.php/provide/vod",
+      "api": "https://pz.168188.dpdns.org/?url=https://api.apibdzy.com/api.php/provide/vod",
       "detail": "https://bdzy1.com"
     },
     "lovedan.net": {
       "name": "🎬艾旦影视",
-      "api": "https://lovedan.net/api.php/provide/vod",
+      "api": "https://pz.168188.dpdns.org/?url=https://lovedan.net/api.php/provide/vod",
       "detail": "https://lovedan.net"
     },
     "zy.sh0o.cn": {
       "name": "🎬山海资源",
-      "api": "https://zy.sh0o.cn/api.php/provide/vod",
+      "api": "https://pz.168188.dpdns.org/?url=https://zy.sh0o.cn/api.php/provide/vod",
       "detail": "https://zy.sh0o.cn"
     },
     "zy.jinchancaiji.com": {
@@ -403,7 +403,7 @@
     },
     "api.souavzy.vip": {
       "name": "🔞souav资源-vip",
-      "api": "https://api.souavzy.vip/api.php/provide/vod",
+      "api": "https://pz.168188.dpdns.org/?url=https://api.souavzy.vip/api.php/provide/vod",
       "detail": "https://api.souavzy.vip"
     },
     "hsckzy888.com": {
@@ -433,12 +433,12 @@
     },
     "api.998zy.com": {
       "name": "🔞998资源",
-      "api": "https://api.998zy.com/api.php/provide/vod",
+      "api": "https://pz.168188.dpdns.org/?url=https://api.998zy.com/api.php/provide/vod",
       "detail": "https://api.998zy.com"
     },
     "api.zuiseapi.com": {
       "name": "🔞最色资源",
-      "api": "https://api.zuiseapi.com/api.php/provide/vod",
+      "api": "https://pz.168188.dpdns.org/?url=https://api.zuiseapi.com/api.php/provide/vod",
       "detail": "https://api.zuiseapi.com"
     },
     "xzybb1.com": {
