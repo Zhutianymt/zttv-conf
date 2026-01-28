@@ -123,22 +123,22 @@
     },
     "www.ryzyw.com": {
       "name": "🎬如意资源",
-      "api": "https://pz.168188.dpdns.org/?url=https://cj.rycjapi.com/api.php/provide/vod",
+      "api": "https://cj.rycjapi.com/api.php/provide/vod",
       "detail": "https://www.ryzyw.com"
     },
     "www.haohuazy.com": {
       "name": "🎬豪华资源",
-      "api": "https://pz.168188.dpdns.org/?url=https://hhzyapi.com/api.php/provide/vod",
+      "api": "https://hhzyapi.com/api.php/provide/vod",
       "detail": "https://www.haohuazy.com"
     },
     "bdzy1.com": {
       "name": "🎬百度云zy",
-      "api": "https://pz.168188.dpdns.org/?url=https://api.apibdzy.com/api.php/provide/vod",
+      "api": "https://api.apibdzy.com/api.php/provide/vod",
       "detail": "https://bdzy1.com"
     },
     "lovedan.net": {
       "name": "🎬艾旦影视",
-      "api": "https://pz.168188.dpdns.org/?url=https://lovedan.net/api.php/provide/vod",
+      "api": "https://lovedan.net/api.php/provide/vod",
       "detail": "https://lovedan.net"
     },
     "zy.sh0o.cn": {
@@ -400,6 +400,56 @@
       "name": "🔞淫水资源",
       "api": "https://www.xrbsp.com/api/json.php",
       "detail": "https://www.xrbsp.com"
+    },
+    "api.souavzy.vip": {
+      "name": "🔞souav资源-vip",
+      "api": "https://api.souavzy.vip/api.php/provide/vod",
+      "detail": "https://api.souavzy.vip"
+    },
+    "hsckzy888.com": {
+      "name": "🔞黄色仓库-888",
+      "api": "https://hsckzy888.com/api.php/provide/vod",
+      "detail": "https://hsckzy888.com"
+    },
+    "naixxzy.com": {
+      "name": "🔞奶香资源",
+      "api": "https://naixxzy.com/api.php/provide/vod",
+      "detail": "https://naixxzy.com"
+    },
+    "ckbh1.xyz": {
+      "name": "🔞CK资源-1",
+      "api": "https://ckbh1.xyz/api.php/provide/vod",
+      "detail": "https://ckbh1.xyz"
+    },
+    "sybyapi.com": {
+      "name": "🔞syby资源",
+      "api": "http://sybyapi.com/api.php/provide/vod",
+      "detail": "http://sybyapi.com"
+    },
+    "dadiapi.com": {
+      "name": "🔞大地资源-api",
+      "api": "https://dadiapi.com/api.php",
+      "detail": "https://dadiapi.com"
+    },
+    "api.998zy.com": {
+      "name": "🔞998资源",
+      "api": "https://api.998zy.com/api.php/provide/vod",
+      "detail": "https://api.998zy.com"
+    },
+    "api.zuiseapi.com": {
+      "name": "🔞最色资源",
+      "api": "https://api.zuiseapi.com/api.php/provide/vod",
+      "detail": "https://api.zuiseapi.com"
+    },
+    "xzybb1.com": {
+      "name": "🔞幸资源-1",
+      "api": "https://xzybb1.com/api.php/provide/vod",
+      "detail": "https://xzybb1.com"
+    },
+    "fqzy.me": {
+      "name": "🔞fq资源",
+      "api": "https://fqzy.me/api.php/provide/vod",
+      "detail": "https://fqzy.me"
     }
   }
 }
